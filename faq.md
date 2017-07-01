@@ -1,12 +1,12 @@
 ---
 title: tout ce qu'il faut savoir
 description: Exploration
-image_url: http://brouillardsetboussoles.fr/wp-content/uploads/2017/01/cropped-foggy-1.jpg
+image_url: https://raw.githubusercontent.com/walkingdev/brouillards-boussoles/master/brouillards-boussoles-header-2.jpg
 ---
 
 # Session WalkingDev Jeux créatifs
 
-![](http://brouillardsetboussoles.fr/wp-content/uploads/2017/01/cropped-foggy-1.jpg)
+![](https://raw.githubusercontent.com/walkingdev/brouillards-boussoles/master/brouillards-boussoles-header-2.jpg)
 
 ## On va faire quoi ?
 
