@@ -17,11 +17,11 @@ Les ateliers se déroulent en groupe pour vous apporter un regard juste et bienv
 Grâce à un univers empruntant les codes du genre fantastique, vous travaillez en profondeur sur vos projet, avec un regard décalé et créatif.
 
 A la fin de l'aventure, vous aurez : 
-     - identifié des compétences importantes, acquises et préférées
-     - fait une synthèse de votre parcours, de vos aspirations et des valeurs qui vous portent
-     - trouvé des pistes pour nourrir et développer mes projets
-     - donné un nouveau dynamisme à vos projets  et débloqué des solutions
-     - décidé d'une voie dans laquelle je m'engage et commencé mon premier petit pas !
+- identifié des compétences importantes, acquises et préférées
+- fait une synthèse de votre parcours, de vos aspirations et des valeurs qui vous portent
+- trouvé des pistes pour nourrir et développer mes projets
+- donné un nouveau dynamisme à vos projets  et débloqué des solutions
+- décidé d'une voie dans laquelle vous engager et commencé votre premier petit pas !
 
 ## Comment ça se passe ?
 
