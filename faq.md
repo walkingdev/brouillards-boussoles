@@ -27,15 +27,9 @@ A la fin de l'aventure, vous aurez :
 
 Par groupe de 4 à 6 personnes, en itinérance entre des lieux inspirants.
 Une à deux animatrices
-Mardi 04 juillet 2017 de 9h à 17h à Toulouse, repas prévu 
-Les ateliers seront organisés en fonction des inscrits sur liste d'attente et dates communes
-(lien vers le framadate)
+Mardi 04 juillet 2017 de 9h à 17h à Toulouse (le repas est prévu). 
 
-
-Venez vous (re)mettre en marche dans les brumes en participant à l'expérience Brouillards et Boussoles !
-
-
-## Il faut que je prévois des trucs ?
+## Il faut que je prévoie des trucs ?
 
 En gros, il faut ta bonne humeur, de l’eau, des noisettes ou des abricots secs et de quoi t’habiller confortablement pour marcher.
 
