@@ -4,7 +4,7 @@ description: Exploration
 image_url: https://raw.githubusercontent.com/walkingdev/brouillards-boussoles/master/brouillards-boussoles-header-2.jpg
 ---
 
-# Session WalkingDev Jeux créatifs
+# Session WalkingDev Brouillards et Boussoles
 
 ![](https://raw.githubusercontent.com/walkingdev/brouillards-boussoles/master/brouillards-boussoles-header-2.jpg)
 
