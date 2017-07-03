@@ -27,7 +27,7 @@ A la fin de l'aventure, vous aurez :
 
 Par groupe de 4 à 6 personnes, en itinérance entre des lieux inspirants.
 Une à deux animatrices
-Journée de 9h à 17h, repas prévu 
+Mardi 04 juillet 2017 de 9h à 17h à Toulouse, repas prévu 
 Les ateliers seront organisés en fonction des inscrits sur liste d'attente et dates communes
 (lien vers le framadate)
 
