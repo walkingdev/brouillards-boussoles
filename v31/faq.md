@@ -1,12 +1,12 @@
 ---
 title: tout ce qu'il faut savoir
 description: Exploration
-image_url: http://brouillardsetboussoles.fr/wp-content/uploads/2017/01/cropped-foggy-1.jpg
+image_url: https://raw.githubusercontent.com/walkingdev/brouillards-boussoles/master/brouillards-boussoles-header-2.jpg
 ---
 
-# Session WalkingDev Jeux créatifs
+# Session WalkingDev Brouillards et Boussoles
 
-![](http://brouillardsetboussoles.fr/wp-content/uploads/2017/01/cropped-foggy-1.jpg)
+![](https://raw.githubusercontent.com/walkingdev/brouillards-boussoles/master/brouillards-boussoles-header-2.jpg)
 
 ## On va faire quoi ?
 
@@ -17,23 +17,17 @@ Les ateliers se déroulent en groupe pour vous apporter un regard juste et bienv
 Grâce à un univers empruntant les codes du genre fantastique, vous travaillez en profondeur sur vos projet, avec un regard décalé et créatif.
 
 A la fin de l'aventure, vous aurez : 
-     - identifié des compétences importantes, acquises et préférées
-     - fait une synthèse de votre parcours, de vos aspirations et des valeurs qui vous portent
-     - trouvé des pistes pour nourrir et développer mes projets
-     - donné un nouveau dynamisme à vos projets  et débloqué des solutions
-     - décidé d'une voie dans laquelle je m'engage et commencé mon premier petit pas !
+- identifié des compétences importantes, acquises et préférées
+- fait une synthèse de votre parcours, de vos aspirations et des valeurs qui vous portent
+- trouvé des pistes pour nourrir et développer mes projets
+- donné un nouveau dynamisme à vos projets  et débloqué des solutions
+- décidé d'une voie dans laquelle vous engager et commencé votre premier petit pas !
 
 ## Comment ça se passe ?
 
 Par groupe de 4 à 6 personnes, en itinérance entre des lieux inspirants.
 Une à deux animatrices
-Journée de 9h à 17h, repas prévu 
-Les ateliers seront organisés en fonction des inscrits sur liste d'attente et dates communes
-(lien vers le framadate)
-
-
-Venez vous (re)mettre en marche dans les brumes en participant à l'expérience Brouillards et Boussoles !
-
+Mardi 04 juillet 2017 de 9h à 17h à Toulouse (le repas est prévu). 
 
 ## Il faut que je prévois des trucs ?
 
