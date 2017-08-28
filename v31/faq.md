@@ -25,9 +25,8 @@ A la fin de l'aventure, vous aurez :
 
 ## Comment ça se passe ?
 
-Par groupe de 4 à 6 personnes, en itinérance entre des lieux inspirants.
-Une à deux animatrices
-Mardi 04 juillet 2017 de 9h à 17h à Toulouse (le repas est prévu). 
+Par groupe de 4 à 6 personnes, en itinérance à Toulouse entre des lieux inspirants.
+Une à deux animatrices, rendez vous à 9h et fin à 17h.  Le repas est prévu. 
 
 ## Il faut que je prévois des trucs ?
 
