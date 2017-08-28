@@ -1,3 +1,5 @@
+
+### Walking dev juillet 2017
 - 1 fontaine place Rouaix
 - 2 parking des Carmes
 - 3 Librairie BD Fugue
