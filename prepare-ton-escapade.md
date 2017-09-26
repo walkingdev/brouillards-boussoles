@@ -1,6 +1,6 @@
 ---
 title: walkingDev Brouillards et Boussoles : Prépare ton escapade
-description: Une petite exploration ça se prépare, voici une petite liste de ce qui nous parait indispensable (ou pas).
+description: Une petite exploration ça se prépare ! Voici une petite liste de ce qui nous parait judicieux.
 image_url:
 ---
 
@@ -8,12 +8,14 @@ image_url:
 
 ## Ta préparation
 
-- Chaussures confortable pour marcher
-- Noisettes ou abricots secs
-- Bouteille d’eau
+* Chaussures confortables pour marcher
+* Tenue confortable (on va être dedans et dehors)
+* Noisettes ou abricots secs de survie
+* Bouteille d’eau de survie
 
 ## Préparation des organisateurs
 
-
-* 1 trousse : marqueurs, post-it, crayons, papiers,
-* 2 bouteilles d’eau
+* Une grande trousse : marqueurs, post-it, crayons, papiers, feutres...
+* Du papiers
+* Carte de l'univers Brouillards et Boussoles
+* ...
